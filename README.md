@@ -21,18 +21,14 @@
  
 
 <h2>📃 Certifications:</h2>
-<h4>2023</h4>
-- [CompTIA Security+]
-    (https://drive.google.com/file/d/1efECqLRMhOw4TuiULeLpMeaG1siwXhDP/view?usp=drive_link)
-- [Google's Foundation of Cybersecurity - Coursera] 
-    (https://drive.google.com/file/d/1x7Wqxhkm1oPBZ08vaba96ngxq3RjcWt3/view?usp=sharing)
-- [Google's Manage Security Risk - Coursera ] 
-    (https://drive.google.com/file/d/1OnwTJWozv3ZayzgSx-iWLbsS3Hsc5Bdm/view?usp=drive_link)
-- [Google's Network and Network Security - Coursera] 
-    (https://drive.google.com/file/d/1oddfBDfm7vcdMtR8LsjfpqiCdYMH9cY4/view?usp=drive_link)
-<h4>2020</h4>
-- [Ethical Hacking and web penetration course - Ersegment Solutions PVT LTD] 
-    (https://drive.google.com/file/d/1PAq1fz0QUEwPg4iZc7fGPLUNpYndF1S7/view?usp=sharing)
+
+- <b>2023</b>
+  - [CompTIA Security+](https://drive.google.com/file/d/1efECqLRMhOw4TuiULeLpMeaG1siwXhDP/view?usp=drive_link)
+  - [Google's Foundation of Cybersecurity](https://drive.google.com/file/d/1x7Wqxhkm1oPBZ08vaba96ngxq3RjcWt3/view?usp=drive_link)
+  - [Google's Manage Security Risk](https://drive.google.com/file/d/1OnwTJWozv3ZayzgSx-iWLbsS3Hsc5Bdm/view?usp=drive_link)
+  - [Google's Network and Network Security](https://drive.google.com/file/d/1oddfBDfm7vcdMtR8LsjfpqiCdYMH9cY4/view?usp=drive_link)
+- <b>2020</b>
+  - [Ethical Hacking and web penetration course](https://drive.google.com/file/d/1PAq1fz0QUEwPg4iZc7fGPLUNpYndF1S7/view?usp=sharing)
 
 <h2> 🤳 Connect with me:</h2>
 
