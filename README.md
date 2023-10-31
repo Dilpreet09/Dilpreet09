@@ -11,13 +11,13 @@
   <p>Installed and Configured Nessus Essentials to perform Credential Vulnerability scans against Windows 8 Host. Conducted Vulnerability Assessments with Nessus and also remediated few vulnerabilities.</p>
   
 - <b>Active Directory</b>
-  - 
+  - [Active Directory](https://github.com/Dilpreet09/Active-Directory)
   <p>Implemented an Active Directory environment on Windows Server 2019, utilizing PowerShell scripts to efficiently create 1000 users at a time. This project also involved configuring DNS and DHCP services in 
   conjunction with Active Directory.</p>
 
 - <b>Cybersecurity Basic Home Lab (Sandbox)</b>
   -
-  <p>Work in Progess, Will be updated by 02/11/2023</p>
+  <p>Work in Progess, It will be updated by 02/11/2023</p>
  
 
 <h2>📃 Certifications:</h2>
