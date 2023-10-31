@@ -7,7 +7,7 @@
   <p>Experience in Security Monitoring using Azure Sentinel (Microsoft's Cloud SIEM) to ingest custom logs from windows event viewer and displayed global attack data on world map (RDP Brute Force) according to physical location and magnitude of attack.<p>
   
 - <b>Vulnerability Management With Nessus</b>
-  - 
+  - [Vulnerability Management With Nessus](https://github.com/Dilpreet09/-Nessus-Vulnerability-Management-)
   <p>Installed and Configured Nessus Essentials to perform Credential Vulnerability scans against Windows 8 Host. Conducted Vulnerability Assessments with Nessus and also remediated few vulnerabilities.</p>
   
 - <b>Active Directory</b>
@@ -17,7 +17,7 @@
 
 - <b>Cybersecurity Basic Home Lab (Sandbox)</b>
   -
-  <p>Work in Progess</p>
+  <p>Work in Progess, Will be updated by 02/11/2023</p>
  
 
 <h2>📃 Certifications:</h2>
