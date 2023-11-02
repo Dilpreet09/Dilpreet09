@@ -17,7 +17,7 @@
 
 - <b>Cybersecurity Basic Home Lab (Sandbox)</b>
   - [Cybersecurity Basic Home Lab](https://github.com/Dilpreet09/Cyber-Security-Basic-Home-Lab-)
-  <p>create a Home Lab, a personalized environment where I could delve into the world of virtualization, explore cutting-edge tools, and simulate real-world scenarios, all from the comfort of my own home. It's a space where curiosity meets innovation, and learning knows no bounds.</p>
+  <p>In this captivating Home Lab project, I embarked on a journey of virtualization and exploration by setting up a secure environment with Windows 10 and Kali Linux on an internal network. I delved into the world of cybersecurity by creating a deceptive Trojan file, showcasing the dangers of deceptive attachments. Additionally, I employed tools like Splunk and Sysmon to monitor and analyze potential threats, shedding light on the power of security tools in safeguarding digital environments. Finally, my successful remote connection through msfconsole reinforced the significance of network security and the constant need for vigilance against malicious actors. This project is a testament to the convergence of curiosity, innovation, and digital security in a personalized Home Lab environment.</p>
  
 
 <h2>📃 Certifications:</h2>
