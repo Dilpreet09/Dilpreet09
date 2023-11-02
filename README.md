@@ -17,7 +17,7 @@
 
 - <b>Cybersecurity Basic Home Lab (Sandbox)</b>
   -
-  <p>Work in Progess, It will be updated by 02/11/2023</p>
+  <p>create a Home Lab, a personalized environment where I could delve into the world of virtualization, explore cutting-edge tools, and simulate real-world scenarios, all from the comfort of my own home. It's a space where curiosity meets innovation, and learning knows no bounds.</p>
  
 
 <h2>📃 Certifications:</h2>
